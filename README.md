@@ -49,7 +49,7 @@ How to Get Started?
 
 
 Clone this repository:
-git clone https://github.com/ShaliniVerma21/C-Programming-Programs-and-Exercises.git
+gh repo clone ShaliniVerma21/C-Programming-Programs-and-Excersizes
 
 Open any topic folder to explore programs and exercises.
 
