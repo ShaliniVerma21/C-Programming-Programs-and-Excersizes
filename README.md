@@ -47,25 +47,23 @@ Why Use This Repository?
 
 How to Get Started?
 
-
 Clone this repository:
 gh repo clone ShaliniVerma21/C-Programming-Programs-and-Excersizes
-
 Open any topic folder to explore programs and exercises.
-
 Compile and run the code on your preferred IDE or terminal.
+
+
 
 
 
 
 Contribute & Collaborate
 
-
 💡 Have a program idea or spotted a bug?
-
 Fork this repository and submit a pull request.
-
 Share your insights or request features by creating an issue.
+
+
 
 
 
