@@ -81,6 +81,7 @@ Whether you are just beginning your C journey or preparing for interviews and ex
 └── 📄 README.md
 
 
+--- 
 
 ### You can compile the C programs using:
 
@@ -90,6 +91,7 @@ Whether you are just beginning your C journey or preparing for interviews and ex
 
 #### 🌐 Online compilers (e.g., Programiz, Replit, JDoodle)
 
+--- 
 
 ### ✨ Contribution Guide
 
@@ -101,7 +103,7 @@ Want to contribute?
 
 #### 🛠 Fork → Edit → Pull Request → Merge 💯
 
-
+--- 
 
 ### 🙋 About the Author
 
@@ -109,6 +111,8 @@ Want to contribute?
 ##### Trainer | Programmer | Developer | Mentor
 📺 YouTube Channel: AlphaMode
 📍 Connect on LinkedIn: Shalini Verma
+
+--- 
 
 ##### ⭐ Don't forget to star this repo if it helped you learn something new!
 ##### Happy Coding and Keep Practicing! 💻😊
