@@ -79,3 +79,31 @@ Whether you are just beginning your C journey or preparing for interviews and ex
 ├── 📁 Interview-Questions
 
 └── 📄 README.md
+
+You can compile the C programs using:
+
+💻 Turbo C / Dev C++ (Windows)
+
+🐧 GCC in Linux terminal or Code::Blocks
+
+🌐 Online compilers (e.g., Programiz, Replit, JDoodle)
+
+
+✨ Contribution Guide
+Want to contribute?
+
+💡 Found a bug or want to add new programs?
+
+📢 Share your own logic and versions of the solution
+
+🛠 Fork → Edit → Pull Request → Merge 💯
+
+🙋 About the Author
+👩‍💻 Shalini Verma
+Trainer | Programmer | Developer | Mentor
+📺 YouTube Channel: AlphaMode
+📍 Connect on LinkedIn: Shalini Verma
+
+⭐ Don't forget to star this repo if it helped you learn something new!
+Happy Coding and Keep Practicing! 💻😊
+
